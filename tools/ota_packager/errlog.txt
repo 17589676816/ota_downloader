@@ -1,0 +1,100 @@
+
+   ---------------------------------Error 时间:2024/5/30 11:57:09---------------------------------
+   导致错误信息 : 文件“D:\work\stm32f103-cje\stm32f103-ota\bsp\stm32\stm32f103\rtthread.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/3 14:02:29---------------------------------
+   导致错误信息 : 文件“D:\work\stm32f103-cje\stm32f103-ota\bsp\stm32\stm32f103\rtthread.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/3 17:13:48---------------------------------
+   导致错误信息 : 文件“D:\work\stm32f103-cje\stm32f103-ota\bsp\stm32\stm32f103\rtthread.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/3 17:18:28---------------------------------
+   导致错误信息 : 文件“D:\work\stm32f103-cje\stm32f103-ota\bsp\stm32\stm32f103\rtthread.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/4 8:39:44---------------------------------
+   导致错误信息 : 文件“D:\work\stm32f103-cje\stm32f103-ota\bsp\stm32\stm32f103\rtthread.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/4 8:42:48---------------------------------
+   导致错误信息 : 文件“D:\work\stm32f103-cje\stm32f103-ota\bsp\stm32\stm32f103\rtthread.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/4 10:06:04---------------------------------
+   导致错误信息 : 文件“C:\Users\zqlon\Desktop\rtthread_1.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/4 10:47:10---------------------------------
+   导致错误信息 : 文件“C:\Users\zqlon\Desktop\rtthread_2.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/4 11:02:38---------------------------------
+   导致错误信息 : 文件“C:\Users\zqlon\Desktop\rtthread_2.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)
+
+   ---------------------------------Error 时间:2024/6/4 11:22:47---------------------------------
+   导致错误信息 : 文件“C:\Users\zqlon\Desktop\rtthread_2.rbl”正由另一进程使用，因此该进程无法访问此文件。
+   导致错误的方法 :System.IO.__Error.WinIOError
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 rt_ota_packaging_tool.FirmwarePack.btnCreate_Click(Object sender, EventArgs e)

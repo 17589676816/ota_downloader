@@ -88,9 +88,11 @@ void ymodem_ota(uint8_t argc, char **argv)
     char* recv_partition = DEFAULT_DOWNLOAD_PART;
     rt_device_t dev = rt_console_get_device();
     enable_output_log = 0;
+	rt_kprintf("argc = %d\n",argc);
     
     for (i=1; i<argc;)
     {
+		rt_kprintf("argv[%d] = %s\n",i,argv[i]);
         /* change default partition to save firmware */
         if (!strcmp(argv[i], "-p"))
         {
@@ -110,6 +112,7 @@ void ymodem_ota(uint8_t argc, char **argv)
                 rt_kprintf("%s", str_usage);
                 return;
             }
+			rt_kprintf("argv[%d + 1] = %s\n",i,argv[i+1]);
             dev = rt_device_find(argv[i+1]);
             if (dev == RT_NULL)
             {
